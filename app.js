@@ -1,2 +1,3 @@
-console.log("hi")
-console.log("deepak")
+function feature(){
+    console.log("hello deepak")
+}
